@@ -1,4 +1,4 @@
-package ProjectFacilitair;
+package nl.kadaster.oca1.wk27.projectfacilitair;
 
 public abstract class Utils {
 	public static boolean blnDebugPrint = false;

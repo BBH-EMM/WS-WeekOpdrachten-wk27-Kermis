@@ -1,8 +1,8 @@
-package nl.kadaster.oca1.wk27.Kermis;
+package nl.kadaster.oca1.wk27.kermis;
 
 import java.math.BigDecimal;
 
-import ProjectFacilitair.Utils;
+import nl.kadaster.oca1.wk27.projectfacilitair.Utils;
 
 public class Attr_BotsAuto_Volwassenen extends Attr_BotsAuto {
 	public Attr_BotsAuto_Volwassenen(String naamAttractie, int minStroomVerbruik, int maxStroomVerbruik, double attractiePrijsVolwassenen, double attractiePrijsKinderen, boolean IsKinderAttractie) {

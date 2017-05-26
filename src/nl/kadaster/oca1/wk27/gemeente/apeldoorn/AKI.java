@@ -1,8 +1,8 @@
-package nl.kadaster.oca1.wk27.gemeenteApeldoorn;
+package nl.kadaster.oca1.wk27.gemeente.apeldoorn;
 
-import ProjectFacilitair.UserInput;
-import ProjectFacilitair.Utils;
-import nl.kadaster.oca1.wk27.Kermis.*;
+import nl.kadaster.oca1.wk27.kermis.*;
+import nl.kadaster.oca1.wk27.projectfacilitair.UserInput;
+import nl.kadaster.oca1.wk27.projectfacilitair.Utils;
 
 public class AKI {
 	private Kermis kermis;

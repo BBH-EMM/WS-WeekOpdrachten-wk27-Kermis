@@ -1,9 +1,9 @@
-package nl.kadaster.oca1.wk27.gemeenteApeldoorn;
+package nl.kadaster.oca1.wk27.gemeente.apeldoorn;
 
 import java.util.ArrayList;
 
-import ProjectFacilitair.Utils;
 import nl.kadaster.oca1.wk27.familie.*;
+import nl.kadaster.oca1.wk27.projectfacilitair.Utils;
 
 public class Bezoekers {
 	private int aantalBezoekers;

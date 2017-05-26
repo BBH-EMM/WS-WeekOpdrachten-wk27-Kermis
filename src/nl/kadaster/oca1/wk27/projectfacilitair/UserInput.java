@@ -1,4 +1,4 @@
-package ProjectFacilitair;
+package nl.kadaster.oca1.wk27.projectfacilitair;
 
 import java.util.Scanner;
 

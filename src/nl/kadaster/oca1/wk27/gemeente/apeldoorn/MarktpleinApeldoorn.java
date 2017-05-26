@@ -1,9 +1,9 @@
-package nl.kadaster.oca1.wk27.gemeenteApeldoorn;
+package nl.kadaster.oca1.wk27.gemeente.apeldoorn;
 
-import ProjectFacilitair.Utils;
-import nl.kadaster.oca1.wk27.Kermis.Attr_BotsAuto_Kinderen;
-import nl.kadaster.oca1.wk27.Kermis.Attr_BotsAuto_Volwassenen;
-import nl.kadaster.oca1.wk27.Kermis.KermisConfiguration;
+import nl.kadaster.oca1.wk27.kermis.Attr_BotsAuto_Kinderen;
+import nl.kadaster.oca1.wk27.kermis.Attr_BotsAuto_Volwassenen;
+import nl.kadaster.oca1.wk27.kermis.KermisConfiguration;
+import nl.kadaster.oca1.wk27.projectfacilitair.Utils;
 
 //import nl.kadaster.oca1.wk27.familie.*;
 //import KermisFacilitair.Utils;

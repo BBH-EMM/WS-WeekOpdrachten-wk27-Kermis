@@ -1,10 +1,10 @@
-package nl.kadaster.oca1.wk27.Kermis;
+package nl.kadaster.oca1.wk27.kermis;
 
 import java.util.HashMap;
 import java.util.Map;
 import java.util.TreeMap;
 
-import ProjectFacilitair.Utils;
+import nl.kadaster.oca1.wk27.projectfacilitair.Utils;
 
 public class Kermis {
 	private String kermisNaam = "";

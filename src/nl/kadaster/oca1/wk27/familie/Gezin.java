@@ -1,7 +1,7 @@
 package nl.kadaster.oca1.wk27.familie;
 
-import ProjectFacilitair.Utils;
-import nl.kadaster.oca1.wk27.gemeenteApeldoorn.Configuration;
+import nl.kadaster.oca1.wk27.gemeente.apeldoorn.Configuration;
+import nl.kadaster.oca1.wk27.projectfacilitair.Utils;
 
 //import KermisFacilitair.*;
 

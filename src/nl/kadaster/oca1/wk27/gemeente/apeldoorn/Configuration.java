@@ -1,22 +1,21 @@
-package nl.kadaster.oca1.wk27.gemeenteApeldoorn;
+package nl.kadaster.oca1.wk27.gemeente.apeldoorn;
 
 import java.util.ArrayList;
 import java.util.HashMap;
 
 import javax.xml.crypto.dsig.spec.HMACParameterSpec;
 
-import ProjectFacilitair.Utils;
-
 import java.math.BigDecimal;
 
-import nl.kadaster.oca1.wk27.Kermis.Attr_BotsAuto_Kinderen;
-import nl.kadaster.oca1.wk27.Kermis.Attr_BotsAuto_Volwassenen;
-import nl.kadaster.oca1.wk27.Kermis.Attr_Hawaii;
-import nl.kadaster.oca1.wk27.Kermis.Attr_LadderKlimmen;
-import nl.kadaster.oca1.wk27.Kermis.Attr_Spiegelpaleis;
-import nl.kadaster.oca1.wk27.Kermis.Attr_Spin;
-import nl.kadaster.oca1.wk27.Kermis.Attr_Spookhuis;
-import nl.kadaster.oca1.wk27.Kermis.Attractie;
+import nl.kadaster.oca1.wk27.kermis.Attr_BotsAuto_Kinderen;
+import nl.kadaster.oca1.wk27.kermis.Attr_BotsAuto_Volwassenen;
+import nl.kadaster.oca1.wk27.kermis.Attr_Hawaii;
+import nl.kadaster.oca1.wk27.kermis.Attr_LadderKlimmen;
+import nl.kadaster.oca1.wk27.kermis.Attr_Spiegelpaleis;
+import nl.kadaster.oca1.wk27.kermis.Attr_Spin;
+import nl.kadaster.oca1.wk27.kermis.Attr_Spookhuis;
+import nl.kadaster.oca1.wk27.kermis.Attractie;
+import nl.kadaster.oca1.wk27.projectfacilitair.Utils;
 
 
 public class Configuration {

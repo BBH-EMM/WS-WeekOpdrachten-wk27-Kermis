@@ -1,4 +1,4 @@
-package nl.kadaster.oca1.wk27.Kermis;
+package nl.kadaster.oca1.wk27.kermis;
 
 //import ProjectFacilitair.Utils;
 
